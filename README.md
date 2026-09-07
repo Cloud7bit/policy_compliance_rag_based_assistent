@@ -1,4 +1,4 @@
-# AML/CFT Policy Compliance Assistant
+# Policy Compliance Assistant
 
 A hybrid RAG system built on Databricks that answers AML/CFT compliance questions by combining **semantic search over policy PDFs** with **structured SQL querying of KPI data** — powered by a **Databricks Genie agent** with a custom RAG instruction set.
 
