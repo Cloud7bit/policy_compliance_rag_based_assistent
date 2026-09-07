@@ -1,0 +1,8 @@
+command:
+  - "streamlit"
+  - "run"
+  - "app.py"
+
+env:
+  - name: "SERVING_ENDPOINT"
+    value: "knowledge_base_default_document_search_chatbot"
